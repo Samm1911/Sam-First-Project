@@ -12,11 +12,10 @@ N/A
 
 ## Usage
 
-Click here to view [Horiseon]()
+Click here to view [Horiseon](https://samm1911.github.io/Sam-First-Project/)
 
 Scroll through the site to get information on the services.
 Click the links in the navigation bar on the top to jump to the main services.
-![HorisoenNavBar]()
 
 ## Credits
 
