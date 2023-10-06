@@ -16,6 +16,7 @@ Click here to view [Horiseon](https://samm1911.github.io/Sam-First-Project/)
 
 Scroll through the site to get information on the services.
 Click the links in the navigation bar on the top to jump to the main services.
+![Screenshot 2023-10-05 at 10 25 07 PM](https://github.com/Samm1911/Sam-First-Project/assets/139638195/75f8c921-0710-4e28-8f64-2445007ba58b)
 
 ## Credits
 
